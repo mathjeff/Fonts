@@ -1,0 +1,6 @@
+<Project>  
+  <name>Fonts</name>
+  <source><GitRepo/></source>
+  <version><GitVersion/></version>
+  <dependencies><DependencyList/></dependencies>
+</Project>
